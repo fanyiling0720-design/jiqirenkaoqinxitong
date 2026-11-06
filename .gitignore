@@ -1,0 +1,17 @@
+# Local data and personal information
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+settings.json
+backups/
+demo_data/
+logs/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+runtime/
+*.zip
+.idea/
+.vscode/
